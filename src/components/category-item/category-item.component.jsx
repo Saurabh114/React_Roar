@@ -11,7 +11,7 @@ const CategoryItem = ({ catergory }) => {
       />
       <div className="category-body-container">
         <h3>{title}</h3>
-        <p>Shop Now Or Whenever you want</p>
+        <p>Shop Now</p>
       </div>
     </div>
   );
