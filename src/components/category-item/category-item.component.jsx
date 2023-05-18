@@ -1,4 +1,4 @@
-import "./category-item-component.styles.scss";
+import "./category-item.styles.scss";
 
 const CategoryItem = ({ catergory }) => {
   const { title, imageUrl } = catergory;
